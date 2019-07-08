@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"reflect"
 	"strings"
-	"github.com/subfinder/subfinder/libsubfinder/engines/passive"
-	"github.com/subfinder/subfinder/libsubfinder/helper"
+	"github.com/hazcod/subfinder/libsubfinder/engines/passive"
+	"github.com/hazcod/subfinder/libsubfinder/helper"
 )
 
 // Subfinder represent a subdomain enumerator instance
