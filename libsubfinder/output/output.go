@@ -14,7 +14,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/subfinder/subfinder/libsubfinder/helper"
+	"github.com/hazcod/subfinder/libsubfinder/helper"
 )
 
 // WriteOutputText writes a single subdomain output to a normal text file

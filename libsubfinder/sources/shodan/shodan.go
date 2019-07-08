@@ -15,7 +15,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/subfinder/subfinder/libsubfinder/helper"
+	"github.com/hazcod/subfinder/libsubfinder/helper"
 )
 
 type ShodanResult struct {

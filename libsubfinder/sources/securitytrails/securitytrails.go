@@ -14,7 +14,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/subfinder/subfinder/libsubfinder/helper"
+	"github.com/hazcod/subfinder/libsubfinder/helper"
 )
 
 type securitytrailsObject struct {

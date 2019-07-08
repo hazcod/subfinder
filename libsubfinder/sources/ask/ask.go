@@ -15,7 +15,7 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/subfinder/subfinder/libsubfinder/helper"
+	"github.com/hazcod/subfinder/libsubfinder/helper"
 )
 
 // all subdomains found
